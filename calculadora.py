@@ -7,3 +7,5 @@ if __name__ == "__main__":
     num2 = float(input("Digite o segundo número: "))
     resultado = soma(num1, num2)
     print(f"Resultado: {resultado}")
+
+# Alteração na calculadora
